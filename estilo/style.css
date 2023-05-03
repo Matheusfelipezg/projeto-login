@@ -27,7 +27,7 @@ main{
 section#login{
     background-color: white;
     width: 360px;
-    height: 530px;
+    height: 450px;
 
     position: absolute;
     top: 50%;
@@ -46,7 +46,7 @@ section#login > div#imagem{
     background-size: cover;
     background-position: center center;
     width: 100%;
-    height: 40vh;
+    height: 40%;
 }
 
 section#login > div#formulario{
